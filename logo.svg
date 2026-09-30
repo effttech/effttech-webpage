@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright (c) 2026 LLC “EFFT Tech”. All rights reserved. See COPYRIGHT. -->
+<svg
+   width="640"
+   height="640"
+   viewBox="0 0 640 640"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.38999999"
+     inkscape:cx="217.94872"
+     inkscape:cy="24.358975"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <title
+     id="title1">Constellation Dots Logo</title>
+  <desc
+     id="desc1">Minimal logo with black circle and violet/white dots on a transparent background.</desc>
+  <rect
+     style="fill:#000000;stroke-width:1.20759;stroke-dasharray:none"
+     id="rect11"
+     width="640"
+     height="640"
+     x="0"
+     y="0"
+     ry="76.636253" />
+  <!-- Outer circle -->
+  <!-- Violet dots -->
+  <circle
+     cx="400.83704"
+     cy="97.034149"
+     fill="#a319e7"
+     id="circle2"
+     r="81.167488"
+     style="stroke-width:1.2392;fill:#1398af;fill-opacity:1" />
+  <circle
+     cx="507.9895"
+     cy="248.5417"
+     fill="#a319e7"
+     id="circle3"
+     r="56.879208"
+     style="stroke-width:1.2392;fill:#1398af;fill-opacity:1"
+     inkscape:transform-center-x="-5.1282051"
+     inkscape:transform-center-y="43.589744" />
+  <circle
+     cx="333.23523"
+     cy="445.49017"
+     fill="#a319e7"
+     id="circle4"
+     r="40.273945"
+     style="stroke-width:1.2392;fill:#1398af;fill-opacity:1" />
+  <circle
+     cx="122.76091"
+     cy="580.69324"
+     fill="#a319e7"
+     id="circle5"
+     r="36.308514"
+     style="stroke-width:1.2392;fill:#1398af;fill-opacity:1" />
+  <!-- White dots -->
+  <circle
+     cx="292.18613"
+     cy="221.38416"
+     fill="#ffffff"
+     id="circle6"
+     r="36.060677"
+     style="stroke-width:1.2392" />
+  <circle
+     cx="170.2222"
+     cy="307.94571"
+     fill="#ffffff"
+     id="circle7"
+     r="41.389229"
+     style="stroke-width:1.2392" />
+  <circle
+     cx="418.30975"
+     cy="374.49069"
+     fill="#ffffff"
+     id="circle8"
+     r="44.858982"
+     style="stroke-width:1.2392" />
+  <circle
+     cx="216.10149"
+     cy="477.08813"
+     fill="#ffffff"
+     id="circle9"
+     r="51.798489"
+     style="stroke-width:1.2392" />
+  <circle
+     cx="430.20605"
+     cy="509.93506"
+     fill="#ffffff"
+     id="circle10"
+     r="28.749403"
+     style="stroke-width:1.2392" />
+  <circle
+     cx="235.15509"
+     cy="587.90027"
+     fill="#ffffff"
+     id="circle11"
+     r="21.06637"
+     style="stroke-width:1.2392" />
+</svg>
